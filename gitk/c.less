@@ -1,0 +1,21 @@
+.New {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100%;
+    background: #ddd;
+
+    .content {
+        width: 200px;
+        height: 200px;
+
+        background: #58a;
+        background-image: repeating-linear-gradient(
+            30deg,
+            hsla(0, 0%, 100%, 0.1),
+            hsla(0, 0%, 100%, 0.1) 15px,
+            transparent 0,
+            transparent 30px
+        );
+    }
+}
