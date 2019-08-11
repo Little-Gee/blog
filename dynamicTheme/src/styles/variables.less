@@ -1,0 +1,14 @@
+/** 
+ * 注意：
+ * 1.所有需要修改的主题变量要在此文件中添加，并确保scripts/generateColorLess.js中也存在相应变量
+ *   全局样式写在index.less中，修改这些文件中的样式配置需要重启
+ * 2.不要给两个或多个变量分配同样的颜色
+ * 3.不要使用 #fff、 #ffffff、 #000 或 #000000
+ * 4.需要用白色或黑色时，稍微修改颜色，例如 #fffffe、 #000001
+ * 5.自己写的样式（非ant design组件样式）如果需要随主题动态修改，则要用index.less中的全局样式
+ *  例:   <div className="base-color">文字</div>
+ *        <div className={cs(styles.text,"base-color")}>文字</div>
+ *  如果不需要动态修改，则修改theme/index.json的相应变量
+*/
+@import "~antd/lib/style/themes/default.less";
+@primary-color: #1890ff;
