@@ -8,6 +8,8 @@
 
 [gitk 使用](https://github.com/GreenHandLittleWhite/blog/issues/3)
 
+[git 命令](https://github.com/GreenHandLittleWhite/blog/issues/5)
+
 ## Interesting
 
 [gitmoji](https://github.com/GreenHandLittleWhite/blog/issues/4)
