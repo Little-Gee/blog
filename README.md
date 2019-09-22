@@ -4,6 +4,10 @@
 
 [ant design 动态切换主题](https://github.com/GreenHandLittleWhite/blog/issues/2)
 
+## Node
+
+[使用 Node.js 搭建脚手架](https://github.com/GreenHandLittleWhite/blog/issues/6)
+
 ## Git
 
 [gitk 使用](https://github.com/GreenHandLittleWhite/blog/issues/3)

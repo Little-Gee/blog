@@ -1,0 +1,29 @@
+{
+    "name": "aaa-cli",
+    "version": "1.0.0",
+    "description": "使用 Node.js 搭建脚手架",
+    "main": "index.js",
+    "bin": {
+        "aaa": "bin/aaa.js"
+    },
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "MIT",
+    "dependencies": {
+        "chalk": "^2.4.2",
+        "commander": "^3.0.1",
+        "download-git-repo": "^2.0.0",
+        "execa": "^2.0.4",
+        "fs-extra": "^8.1.0",
+        "inquirer": "^7.0.0",
+        "lru-cache": "^5.1.1",
+        "ora": "^3.4.0",
+        "semver": "^6.3.0",
+        "validate-npm-package-name": "^3.0.0"
+    },
+    "engines": {
+        "node": ">=8.9"
+    }
+}
