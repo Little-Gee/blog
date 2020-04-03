@@ -1,7 +1,10 @@
 ## Vue
+
 [Vue 中”神奇“的写法](https://github.com/GreenHandLittleWhite/blog/issues/7)
 
 [Vue 中 key 的作用](https://github.com/GreenHandLittleWhite/blog/issues/9)
+
+[一道关于响应式的题目](https://github.com/GreenHandLittleWhite/blog/issues/10)
 
 ## React
 
