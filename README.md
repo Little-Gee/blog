@@ -16,6 +16,8 @@
 
 [一道经典面试题](https://github.com/GreenHandLittleWhite/blog/issues/8)
 
+[axios封装](https://github.com/GreenHandLittleWhite/blog/issues/11)
+
 ## Node
 
 [使用 Node.js 搭建脚手架](https://github.com/GreenHandLittleWhite/blog/issues/6)
