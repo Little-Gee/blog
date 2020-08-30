@@ -18,6 +18,8 @@
 
 [axios封装](https://github.com/GreenHandLittleWhite/blog/issues/11)
 
+[$get](https://github.com/GreenHandLittleWhite/blog/issues/12)
+
 ## Node
 
 [使用 Node.js 搭建脚手架](https://github.com/GreenHandLittleWhite/blog/issues/6)
