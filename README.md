@@ -14,6 +14,8 @@
 
 [ant design 动态切换主题](https://github.com/GreenHandLittleWhite/blog/issues/2)
 
+[react dnd 实现 antd table 拖拽手柄列](https://github.com/GreenHandLittleWhite/blog/issues/16)
+
 ## JavaScript
 
 [一道经典面试题](https://github.com/GreenHandLittleWhite/blog/issues/8)
