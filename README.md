@@ -24,6 +24,10 @@
 
 [$get](https://github.com/GreenHandLittleWhite/blog/issues/12)
 
+## Chrome
+
+[一个凑合用的掘金小册目录插件](https://github.com/GreenHandLittleWhite/blog/issues/17)
+
 ## CSS
 
 [flex 居中，子元素 overflow 时无法滚动到顶部和左侧](https://github.com/GreenHandLittleWhite/blog/issues/13)
