@@ -1,20 +1,4 @@
-## Vue
-
-[Vue 中”神奇“的写法](https://github.com/GreenHandLittleWhite/blog/issues/7)
-
-[Vue 中 key 的作用](https://github.com/GreenHandLittleWhite/blog/issues/9)
-
-[一道关于响应式的题目](https://github.com/GreenHandLittleWhite/blog/issues/10)
-
-[Element transfer 组件数据量大卡顿优化 && 添加虚拟滚动](https://github.com/GreenHandLittleWhite/blog/issues/15)
-
 ## React
-
-[create-react-app 中配置 css module(less)、ant design 及 ant design 按需加载与自定义主题](https://github.com/GreenHandLittleWhite/blog/issues/1)
-
-[ant design 动态切换主题](https://github.com/GreenHandLittleWhite/blog/issues/2)
-
-[react dnd 实现 antd table 拖拽手柄列](https://github.com/GreenHandLittleWhite/blog/issues/16)
 
 **React 是如何工作的**
 
@@ -29,6 +13,26 @@
 [5.关键节点](https://github.com/GreenHandLittleWhite/blog/issues/22)
 
 [6.从触发状态更新开始](https://github.com/GreenHandLittleWhite/blog/issues/23)
+
+[React 整理](https://github.com/GreenHandLittleWhite/blog/issues/24)
+
+**使用**
+
+[create-react-app 中配置 css module(less)、ant design 及 ant design 按需加载与自定义主题](https://github.com/GreenHandLittleWhite/blog/issues/1)
+
+[ant design 动态切换主题](https://github.com/GreenHandLittleWhite/blog/issues/2)
+
+[react dnd 实现 antd table 拖拽手柄列](https://github.com/GreenHandLittleWhite/blog/issues/16)
+
+## Vue
+
+[Vue 中”神奇“的写法](https://github.com/GreenHandLittleWhite/blog/issues/7)
+
+[Vue 中 key 的作用](https://github.com/GreenHandLittleWhite/blog/issues/9)
+
+[一道关于响应式的题目](https://github.com/GreenHandLittleWhite/blog/issues/10)
+
+[Element transfer 组件数据量大卡顿优化 && 添加虚拟滚动](https://github.com/GreenHandLittleWhite/blog/issues/15)
 
 ## JavaScript
 
